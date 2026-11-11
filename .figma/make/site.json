@@ -2,6 +2,9 @@
   "title": "Kagli's BirthDay",
   "language": "es",
   "description": "Un homenaje de cumpleaños estilo RPG retro para Kagli: conoce a sus aliados, lee sus mensajes y abre el cofre sorpresa.",
+  "openGraph": {
+    "image": "https://kagli-birthday.vercel.app/og-portada.jpg"
+  },
   "icons": {
     "icon": "/torta.webp"
   },
