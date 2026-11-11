@@ -1,5 +1,8 @@
 {
   "description": "Explore a retro RPG birthday tribute for Kagli, featuring friend and pet profiles, personalized messages, and a surprise gift reveal.",
+  "icons": {
+    "icon": "/torta.webp"
+  },
   "robots": {
     "index": false
   },
