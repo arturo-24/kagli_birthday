@@ -30,7 +30,7 @@ export const heroes: Hero[] = [
     level: "31",
     skill: "Plan maestro",
     message:
-      "Comandante Kagli: la misión “Cumplir otro año siendo increíble” ha sido completada con rango S. Gracias por hacer de cada campaña una historia que vale la pena.",
+      "Hoy celebramos a alguien que se ganó un lugar especial en el corazón de todo el círculo. Nos conocimos, y desde entonces siempre has sido ese que está ahí, apoyando a todos sin que se lo pidan, compartiendo tu música como quien comparte un pedazo de ti mismo, y escuchando a cada uno aunque también tengas tu carácter (¡y vaya que lo tienes, argentino al fin!). Más de 50 años de vida y sigues siendo esa persona que suma, que acompaña, que se queda. Eso no lo hace cualquiera. No se me olvida cuando me regalaste algo que no esperaba: una web con las mañanitas, bien mexicanas, hecha con tus manos y tu cariño. Ese gesto me dijo todo lo que necesitaba saber de ti, re copado mal, el groso y hoy quiero devolverte un poquito de eso. Gracias por existir como existes. Te queremos, te valoramos, y te deseamos un día como ninguno porque así eres tú con nosotros, todos los días. ¡Feliz cumpleaños! 🥳🎶",
     image: "/hero-commander.png",
     position: "center top",
     accent: "#eab84d",

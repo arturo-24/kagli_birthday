@@ -11,6 +11,8 @@ Memoria del proyecto entre sesiones. Máximo ~50 líneas: resume o elimina lo qu
 
 ## Decisiones (y por qué)
 
+- Mensaje de Lady The Killa reemplazado el 2026-11-11 por texto nuevo que pasó el usuario (autorizado); va en un solo bloque continuo, sin saltos de línea.
+
 - Se mantiene React + TypeScript (`.tsx`): el proyecto ya estaba así y no se migra ni se reconstruye.
 - Mensajes personales en `src/data/heroes.ts`: se extrajeron sin retocar ni una letra.
 - Ancho del marco del hero calculado con `100svh - 350px` (antes 305) para dar sitio a la placa.
