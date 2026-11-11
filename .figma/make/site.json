@@ -1,5 +1,7 @@
 {
-  "description": "Explore a retro RPG birthday tribute for Kagli, featuring friend and pet profiles, personalized messages, and a surprise gift reveal.",
+  "title": "Kagli's BirthDay",
+  "language": "es",
+  "description": "Un homenaje de cumpleaños estilo RPG retro para Kagli: conoce a sus aliados, lee sus mensajes y abre el cofre sorpresa.",
   "icons": {
     "icon": "/torta.webp"
   },
